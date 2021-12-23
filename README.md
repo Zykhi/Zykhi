@@ -1,7 +1,7 @@
 <p align="center">
  
 </p align="center">
-[![MasterHead](https://github.com/Zykhi/Zykhi/blob/0d350ce0ca68b53e750a7c65a4cc035e3a424a7d/header.png)](https://github.com/Zykhi/)
+<img src="https://github.com/Zykhi/Zykhi/blob/main/header.png" />
 
 <p align="center">
   I am a 1st year student at ESIEE PARIS. I am a curious person always ready to learn and work in all fields of technology. 
