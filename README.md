@@ -1,7 +1,7 @@
 <p align="center">
  
 </p align="center">
-<img src="https://github.com/Zykhi/Zykhi/blob/main/header.png" />
+<img src="https://github.com/Zykhi/Zykhi/blob/main/banner.png" />
 
 <p align="center">
   I am a 1st year student at ESIEE PARIS. I am a curious person always ready to learn and work in all fields of technology. 
